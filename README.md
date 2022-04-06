@@ -11,6 +11,12 @@ fan is a data scientist focusing on the field of anomaly detection.
 -->
 Fan is a data mining engineer focusing on anomaly detection.
 
+Interests:
+- Anomoly Detection
+- Data Visualization
+- Data Analysis 
+- NLP
+
 Work Exp:
 - 2022.1-Now. VenusTech
 - 2019.7-2022.1 Ericsson
