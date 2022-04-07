@@ -18,7 +18,7 @@ Interests:
 - NLP
 
 Work Exp:
-- 2022.1-Now. VenusTech
-- 2019.7-2022.1 Ericsson
+- 2022.1-Now. VenusTech    Cyber Securety Anomoly Detection
+- 2019.7-2022.1 Ericsson   Telecom Data   Anomoly Detection
 - 📫 How to reach me: 
 yangfancs1997@gmail.com
