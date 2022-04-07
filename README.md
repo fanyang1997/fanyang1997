@@ -22,3 +22,5 @@ Work Exp:
 - 2019.7-2022.1 Ericsson   Telecom Data   Anomoly Detection
 - 📫 How to reach me: 
 yangfancs1997@gmail.com
+stackoverflow: https://stackoverflow.com/users/8809793/fan-yang
+LinkedIn: https://www.linkedin.cn/injobs/in/fanyang1997
